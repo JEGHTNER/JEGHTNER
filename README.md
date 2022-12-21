@@ -1,16 +1,21 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20Jeheon%20Lee!&descAlignY=58&descAlign=60)
+<div align=center> Hi there 😃 </div>
+<div align=center> My name is Jeheon Lee!  </div>
 
-<!--
-**JEGHTNER/JEGHTNER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align=center> 🌈 CONTACTS 🌈 </div>
 
-Here are some ideas to get you started:
+<div align=center> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align=center> 📚 MY SKIILS 📚 </div>
+
+<div align=center> 
+</div>
+
+<div align=center>
+
+### ✨ My Stats ✨
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeheon0717)](https://solved.ac/jeheon0717/)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEGHTNER)](https://github.com/anuraghazra/github-readme-stats)
