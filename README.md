@@ -18,4 +18,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeheon0717)](https://solved.ac/jeheon0717)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEGHTNER)](https://github.com/anuraghazra/github-readme-stats)
+[![JEGHTNER's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEGHTNER)](https://github.com/anuraghazra/github-readme-stats)
