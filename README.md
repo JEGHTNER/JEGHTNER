@@ -26,6 +26,6 @@
 
 | 프로젝트 이름 | 기간         | 인원수 | 사용 기술 | 역할 | 링크
 |--------------|--------------|-------| ----------| ----------------------------| ---|
-| TATI 관광지 추천 웹 프로젝트| 2023.11~2023.11 | 2명   | SpringBoot, Vue.js | 풀스택 웹개발 | [깃](https://github.com/TripProjectJB/TATI)  [사이트](http://ec2-3-106-188-122.ap-southeast-2.compute.amazonaws.com/)|
+| TATI 관광지 추천 웹 프로젝트| 2023.11~2023.11 | 2명   | SpringBoot, Vue.js | 풀스택 웹개발 | [깃](https://github.com/TripProjectJB/TATI)  [사이트](http://13.210.121.143/)|
 |    |  |    | | | |
 |    |  |    | | | |
