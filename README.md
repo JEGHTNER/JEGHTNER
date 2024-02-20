@@ -3,8 +3,8 @@
 
 ### <div align=center> 📚 MY SKIILS 📚 </div>
 <div align=center> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
   
 ###  <div align=center>🛠️ Tools </div>
@@ -26,6 +26,6 @@
 
 | 프로젝트 이름 | 기간         | 인원수 | 사용 기술 | 역할 | 링크
 |--------------|--------------|-------| ----------| ----------------------------| ---|
-| TATI 관광지 추천 웹 프로젝트| 2023.11~2023.11 | 2명   | SpringBoot, Vue.js | 풀스택 웹개발 | [깃](https://github.com/TripProjectJB/TATI)  [사이트](http://13.210.121.143/)|
-|    |  |    | | | |
+| TATI 관광지 추천 웹 서비스| 2023.11 ~ 2023.11 | 2명 | SpringBoot, Vue.js | 풀스택 웹개발 | [깃](https://github.com/TripProjectJB/TATI)  [사이트](http://13.210.121.143/)|
+| Zooting 동물상 화상 채팅 웹 서비스| 2024.01 ~ 2024.02  | 6명 | SpringBoot, Vue.js | 백엔드 웹개발 |[깃](https://github.com/JEGHTNER/Zooting) [사이트](https://i10a702.p.ssafy.io/)|
 |    |  |    | | | |
