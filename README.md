@@ -26,6 +26,7 @@
 
 | 프로젝트 이름 | 기간         | 인원수 | 사용 기술 | 역할 | 링크
 |--------------|--------------|-------| ----------| ----------------------------| ---|
-| TATI 관광지 추천 웹 서비스| 2023.11 ~ 2023.11 | 2명 | SpringBoot, Vue.js | 풀스택 웹개발 | [깃](https://github.com/TripProjectJB/TATI)  [사이트](http://13.210.121.143/)|
-| Zooting 동물상 화상 채팅 웹 서비스| 2024.01 ~ 2024.02  | 6명 | SpringBoot, Vue.js | 백엔드 웹개발 |[깃](https://github.com/JEGHTNER/Zooting) [사이트](https://i10a702.p.ssafy.io/)|
-|    |  |    | | | |
+| Hidebowwow 웹 숨바꼭질 게임| 2024.04 ~ 2024.05  | 6명 | SpringBoot, React, k8s | 인프라, 백엔드 | [Git](https://github.com/JEGHTNER/hidebowwow)|
+| Zigeum 모의주식투자 차트게임| 2024.02 ~ 2024.04  | 6명 | SpringBoot, next.js, Hadoop | 백엔드, 빅데이터 | [Git](https://github.com/JEGHTNER/Zigeum)|
+| Zooting 동물상 화상 채팅 웹 서비스| 2024.01 ~ 2024.02  | 6명 | SpringBoot, Vue.js | 백엔드 웹개발 | [Git](https://github.com/JEGHTNER/Zooting)|
+| TATI 관광지 추천 웹 서비스| 2023.11 ~ 2023.11 | 2명 | SpringBoot, Vue.js | 풀스택 웹개발 |  [Git](https://github.com/TripProjectJB/TATI)|
